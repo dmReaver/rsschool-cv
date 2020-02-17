@@ -1,1 +1,1 @@
-https://dmReaver.github.io/rsschool-cv/cv
+https://dmReaver.github.io/rsschool-cv/
